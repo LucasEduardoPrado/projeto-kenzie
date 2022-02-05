@@ -1,7 +1,5 @@
 # Maratona de Programação 6: Lista de Contatos
 
-Projeto desenvolvido na parte 6 da maratona de programação da Kenzie Academy Brasil.
-
 ## O Projeto
 ### Estrutura de arquivos 
 
