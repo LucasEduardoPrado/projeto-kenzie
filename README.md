@@ -1,6 +1,7 @@
 # Maratona de Programação 6: Lista de Contatos
 
 Projeto realizado durante a maratona de programação da Kenzie Academy Brasil, sendo usado as linguagens HTML, CSS e Javascript
+site rodando no netlify https://projeto-kenziebylucasdoprado.netlify.app/
 
 ## Layout
 
